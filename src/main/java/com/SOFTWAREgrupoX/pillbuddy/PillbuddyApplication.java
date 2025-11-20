@@ -8,6 +8,7 @@ public class PillbuddyApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(PillbuddyApplication.class, args);
+		SumHello.askAndSum();
 	}
 
 }
