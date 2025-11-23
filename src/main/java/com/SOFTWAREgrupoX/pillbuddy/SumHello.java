@@ -32,9 +32,10 @@ public class SumHello {
         }
         double b = scanner.nextDouble();
         System.out.println(getHello());
+        System.out.println("PillBuddy company");
+        System.out.println("Johana, Jose, Ivan");
+
 
     }
 
-    
- 
 }
