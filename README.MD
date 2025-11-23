@@ -1,7 +1,6 @@
 ### Ivan Gelhorn
 
-# Johana Elena
+### Johana Elena
 
-=======
 ### Jose Márquez 
 
